@@ -1,6 +1,6 @@
 body
 {
-	background-image: url("images/papierpeintstrong.jpg");
+	background-image: url("images/papierpeint.png");
 }
 
 #cv
@@ -41,13 +41,15 @@ header {
 }
 
 nav.sommaire {
+	align-items: center;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 	margin: auto;
 	margin-top: 2rem;
 	margin-bottom: 5rem;
-	width: 95%;
+	padding-right: 0rem;
+	width: 92%;
 }
 
 .paragraphes {
@@ -125,8 +127,7 @@ h3
 ul
 {
 	font-family: 'Nunito', sans-serif;
-	font-size: 0.9em;
-  /* height: 300px; */
+	font-size: 1em;
 	margin-left: 5px;
 	margin-right: 5px;
 	overflow: auto;
@@ -168,7 +169,7 @@ a 	{
 
 .sommaire a:hover {
 		background: rgba(250, 250, 250, 0.9);
-		color: #289898;
+		color: #7196bd;
     transition: all 0.5s ease-out;
     }
 
@@ -203,6 +204,11 @@ span
 {
 	color: black;
 	font-weight: 700;
+}
+
+.sommaire i {
+	color: #7196bd;
+	transform: rotate(14deg);
 }
 
 img
