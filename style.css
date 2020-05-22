@@ -131,6 +131,7 @@ li {
 
 .ul-1 li {
 	list-style-type: none;
+	margin-top: 0.1rem;
 }
 
 .ul-1 li::before {
@@ -199,7 +200,11 @@ a {
 }
 
 ul a {
+	background-color: white;
+	border: 0.5px solid #7c7c7c;
+	border-radius: 6px;
 	color: #5157a7;
+	padding: 0.05rem 0.5rem;
 }
 
 p {
