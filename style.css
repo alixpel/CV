@@ -13,6 +13,7 @@ header {
 	border: 1px solid #7c7c7c;
 	border-radius: 6px;
 	box-shadow: 1px 2px 5px 0px rgba(189,189,189,1);
+	clear: right;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -164,6 +165,30 @@ li {
 
 a {
 	text-decoration: none;
+}
+
+.language a {
+	background-color: rgba(250, 250, 250, 0.3);
+	border: 1px solid #7c7c7c;
+	border-radius: 0.3rem;
+	box-shadow: 1px 2px 5px 0px rgba(189,189,189,1);
+	float: right;
+	font-family: 'Nunito', sans-serif;
+	margin-bottom: 2rem;
+	margin-right: 5rem;
+	margin-top: 2rem;
+	padding: 0.3rem 2rem 0.3rem 2rem;
+}
+
+.language a:hover {
+	background: rgba(250, 250, 250, 0.9);
+	color: #021528;
+  transition: all 0.5s ease-out;
+  }
+
+.language a:not(:hover) {
+	color: #3b6086;
+  transition: all 0.5s ease-out;
 }
 
 .footer-links a 	{
