@@ -199,8 +199,8 @@ a {
 }
 
 .sommaire a {
-	background: rgba(250, 250, 250, 0.7);
-	border-radius: 0.5rem;
+	/* background: rgba(250, 250, 250, 0.7); */
+	/* border-radius: 0.5rem; */
 	/* box-shadow: 1px 2px 5px 0px rgba(189,189,189,1); */
 	color: #3b6086;
 	font-family: 'Nunito', sans-serif;
@@ -237,6 +237,13 @@ p {
 	text-align: center;
 }
 
+span {
+	background-color: rgba(250, 250, 250, 1);
+	border: 3px solid #eab357;
+	border-radius: 0.5rem;
+	padding: 0.5rem 0.7rem;
+}
+
 .header-text p {
   color: rgb(50, 50, 50);
 	font-size: 1.05rem;
@@ -249,12 +256,13 @@ p {
 span
 {
 	color: #01114a;
+	font-size: 1.3rem;
 	font-weight: 700;
 }
 
 .sommaire i {
 	color: #7196bd;
-	transform: rotate(14deg);
+	transform: rotate(90deg);
 }
 
 img
