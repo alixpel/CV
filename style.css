@@ -454,6 +454,10 @@ img:hover {
 		margin-top: 2rem;
 	}
 
+	span {
+		font-size: 1rem;
+	}
+
 	.download-cv {
 		display: none;
 	}
