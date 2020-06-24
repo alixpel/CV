@@ -275,7 +275,7 @@ a.point-sommaire:hover {
 	background-color: rgba(255, 255, 255, 1);
 	border: 3px solid #eb502d;
 	color: #3b6086;
-	transition: all 0.5s ease-out;
+	transition: all 1s ease-out;
 }
 
 a.point-sommaire:not(:hover) {
@@ -455,7 +455,7 @@ img:hover {
 	}
 
 	span {
-		font-size: 1rem;
+		font-size: 2rem;
 	}
 
 	.download-cv {
