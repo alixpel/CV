@@ -364,6 +364,10 @@ img:hover {
 		width: 86%;
 	}
 
+	nav.sommaire {
+		width: 86%;
+	}
+
 	.sommaire-groupe {
 		margin: 0.4rem;
 		width : 33vw;
