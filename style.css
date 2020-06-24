@@ -463,7 +463,7 @@ img:hover {
 		font-size: 2rem;
 	}
 
-	.download-cv {
+	a.download-cv {
 		display: none;
 	}
 
