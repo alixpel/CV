@@ -361,6 +361,7 @@ img:hover {
 	.sommaire {
 		margin-bottom: 2.8rem;
 		margin-top: 2rem;
+		width: 70%;
 	}
 
 	.sommaire-groupe {
@@ -415,7 +416,7 @@ img:hover {
     cursor: pointer;
 		color: #666666;
 		display: inline-block;
-		font-size: 2.2rem;
+		font-size: 2.3rem;
 		padding: 15px 20px 18px 20px;
     text-align: center;
 		text-decoration: none;
