@@ -329,6 +329,7 @@ img
 {
 	border-radius: 4%;
   filter: grayscale(54%);
+	max-width: 20%;
   object-fit: cover;
 	padding: 4px;
 }
