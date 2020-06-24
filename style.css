@@ -13,7 +13,8 @@ body {
 }
 
 .language {
-	width: 94%;
+	margin: auto;
+	margin-top: 1rem;
 }
 
 header {
@@ -227,12 +228,7 @@ a {
 	border: 1px solid #7c7c7c;
 	border-radius: 0.3rem;
 	box-shadow: 1px 2px 5px 0px rgba(189,189,189,1);
-	float: right;
-	font-family: 'Nunito', sans-serif;
 	font-size: 2rem;
-	margin-bottom: 0rem;
-	margin-right: 5rem;
-	margin-top: 2rem;
 	padding: 0.3rem 1rem 0.3rem 1rem;
 }
 
@@ -454,6 +450,10 @@ img:hover {
 
 	.download-cv {
 		display: none;
+	}
+
+	.language a {
+		font-size: 4rem;
 	}
 
 }
