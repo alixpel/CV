@@ -27,7 +27,7 @@ header {
 	justify-content: space-around;
   margin: auto;
 	margin-bottom: 4rem;
-	margin-top: 5rem;
+	margin-top: 2.4rem;
 	padding: 1rem 2rem;
   width: 71%;
 }
@@ -40,7 +40,7 @@ header {
 	align-items: center;
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 
 .header-text {
@@ -64,7 +64,7 @@ header {
 }
 
 .intro {
-	width: 60%;
+	width: 47%;
 }
 
 .header-links {
@@ -85,7 +85,7 @@ nav.sommaire {
 	margin-top: 1rem;
 	margin-bottom: 3rem;
 	padding-right: 0rem;
-	width: 51%;
+	width: 68%;
 }
 
 .sommaire-groupe {
@@ -361,10 +361,17 @@ img:hover {
 	.sommaire {
 		margin-bottom: 2.8rem;
 		margin-top: 2rem;
+	}
 
+	.point-sommaire {
+		width: 100%;
 	}
 
 	.header-links {
+		display: none;
+	}
+
+	.intro {
 		display: none;
 	}
 
