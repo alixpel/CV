@@ -38,7 +38,7 @@ header {
   flex-direction: row;
 	justify-content: space-around;
   margin: auto;
-	margin-bottom: 4rem;
+	margin-bottom: 2rem;
 	margin-top: 2.4rem;
 	padding: 1rem 2rem;
   width: 71%;
@@ -361,6 +361,10 @@ img:hover {
 		width: 85%;
 	}
 
+	.head {
+		flex-direction: row;
+	}
+
 	.position {
 		width: 48%;
 	}
@@ -388,6 +392,10 @@ img:hover {
 
 	.header-links {
 		display: none;
+	}
+
+	.header-text-and-links {
+		display: block;
 	}
 
 	.intro {
