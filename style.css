@@ -400,6 +400,7 @@ img:hover {
 		justify-content: space-around;
     margin: auto;
 		margin-top: 1rem;
+		max-height: none;
     padding-bottom: 20px;
 		padding-top: 20px;
     width: 90%;
