@@ -210,6 +210,10 @@ li {
   width: 1em;
 }
 
+.works-link i {
+	color: #7c0aa2;
+}
+
 .sous-titre-works {
 	color: rgb(80, 96, 115);
   font-family: 'Nunito', sans-serif;
