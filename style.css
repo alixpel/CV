@@ -28,6 +28,10 @@ body {
 
 }
 
+.small-device-language {
+	display: none;
+}
+
 header {
   align-items: center;
 	background-color: rgba(255, 255, 255, 0.85);
@@ -359,6 +363,10 @@ img:hover {
 
 	.top-buttons {
 		display: none;
+	}
+	
+	.small-device-language {
+	display: block;
 	}
 
 	header {
