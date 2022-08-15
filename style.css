@@ -422,6 +422,8 @@ img:hover {
 	
 	.small-device-language {
 		display: block;
+		font-family: 'Nunito', sans-serif;
+		font-weight: bold;
 		margin: auto;
 		margin-top: 1rem;
 	}
