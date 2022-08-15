@@ -16,6 +16,7 @@ body {
 	align-items: center;
 	display: flex;
 	flex-direction: row;
+	font-family: 'Nunito', sans-serif;
 	height: 4rem;
 	justify-content: space-around;
 	margin: auto;
@@ -511,6 +512,7 @@ img:hover {
     		color: #666666;
     		display: inline-block;
     		font-size: 2.3rem;
+		font-family: 'Nunito', sans-serif;
     		padding: 15px 20px 18px 20px;
     		text-align: center;
     		text-decoration: none;
