@@ -578,7 +578,7 @@ img:hover {
 	}
 
 	a.download-cv {
-		display: none;
+		font-size: 2rem;
 	}
 
 	.language a {
