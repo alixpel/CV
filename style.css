@@ -415,6 +415,10 @@ img:hover {
 		flex-direction: column;
     width: auto;
 	}
+	
+	body {
+		background: linear-gradient(288deg, rgba(219,253,255,1) 0%, rgba(247,247,247,1) 52%, rgba(255,238,220,1) 100%);
+	}
 
 	.top-buttons {
 		display: none;
