@@ -2,6 +2,7 @@ body {
 	background: linear-gradient(242deg, rgba(219,253,255,1) 0%, rgba(247,247,247,1) 52%, rgba(255,238,220,1) 100%);
 	display: flex;
 	flex-direction: column;
+	margin: 0px;
 }
 
 #cv {
